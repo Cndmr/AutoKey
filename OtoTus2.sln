@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoTus2", "OtoTus2\OtoTus2.csproj", "{525229E8-5927-4BEC-A0B7-B73E3C812F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525229E8-5927-4BEC-A0B7-B73E3C812F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525229E8-5927-4BEC-A0B7-B73E3C812F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525229E8-5927-4BEC-A0B7-B73E3C812F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525229E8-5927-4BEC-A0B7-B73E3C812F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C6F3FB-90F3-47A5-AFAA-AD8296045508}
+	EndGlobalSection
+EndGlobal
